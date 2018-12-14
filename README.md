@@ -1,6 +1,12 @@
 # Twisted
 Repository for our game which code will serve at the ADSA
 
+Members of the project : 
+FABREGUES Théophile
+DONNADIEU Ambre
+FAUVET Paul
+PORTES Eloïse
+
 Twisted 
  
 Objective : 
